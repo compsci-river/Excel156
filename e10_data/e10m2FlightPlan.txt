@@ -1,0 +1,5 @@
+Flight	City	State	Latitude	Longitude
+1	New York	NY	40.73061	-73.935242
+2	Chicago	IL	41.881832	-87.623177
+3	Denver	CO	39.742043	-104.991531
+4	Los Angeles	CA	34.052235	-118.243683

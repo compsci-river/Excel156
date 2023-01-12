@@ -1,0 +1,7 @@
+StoreNumber	Street	City	State Zip	Zip
+101	4825 East 96th Street	Fishers	IN 46038	46038
+201	8290 East 96th Street	Fishers	IN 46038	46038
+301	6070 East 82nd Street	Indianapolis	IN 46250	46250
+401	3449 East 86th Street	Indianapolis	IN 46250	46250
+501	6151 North Keystone	Indianapolis	IN 46250	46250
+601	1057 West 58th Street	Indianapolis	IN 46250	46250
